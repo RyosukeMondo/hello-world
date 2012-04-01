@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 another change.
-onether one more line.
+same line .onether one more line.
 =======
 testing
 one more line.
